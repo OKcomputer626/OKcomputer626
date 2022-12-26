@@ -2,7 +2,7 @@
 
 <img align="right" width="400" height="300" src="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/d8/images/methode/2019/05/16/af330f24-777d-11e9-933d-71f872cf659b_image_hires_161624.jpg?itok=SVoJEL7L&v=1557994593">
 
-I'm currently an aspiring Data Analyst/Scientist and pursuing a Master's in Applied Statistics at California State University - Long Beach, California. I enjoy exploring data science, machine learning, and football analytics. 
+I'm currently an aspiring Data Analyst/Scientist and pursuing a Master's in Applied Statistics at California State University - Long Beach, California. I enjoy exploring data science, machine learning, and football analytics. My hobbies include playing soccer, listening to music, watching moves, hiking and playing guitar.
 
 For more information, I am available through all the following channels:
 
